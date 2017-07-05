@@ -11,7 +11,7 @@
 **Hauptteig**
 
 * Brühstück
-* 250 g Dunkelmehl (Type 630)
+* 250 g Dinkelmehl (Type 630)
 * 130 g Roggenmehl (Type 1800)
 * 100 g Grünkernschrot
 * 75 g fertiger Sauerteig
